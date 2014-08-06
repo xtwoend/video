@@ -1,0 +1,38 @@
+List Fitur akan dibagi permodul
+
+Note: Tidak ada proses sign up untuk user
+	  pendaftaran user akan di bawa ke halaman Merahputih daftar
+
+Modul User :
+User Upload
+User Comment
+Profile
+Setting
+	Status User : 
+		Regular
+			Artis / Aktris
+			Produser
+			Editor
+			Sutradara
+			Sound
+			Lainnya
+		Contest Holder :
+			Organisasi
+			Perusahaan
+		
+Modul Admin :
+TV :
+	CRUD : TV Program
+			- Nama , Gambar ,Deskripsi, Jam tayang, Subscribe,
+			- Video / Iframe
+Competition
+		Embeed Iframe Text 
+	Slider
+Channel :
+	CRUD: Nama, Deskripsi, Gambar, Subscribe
+	
+Competition :
+	CRUD: Judul , Gambar , Brief, Hadiah , Waktu dan Tanggal , Status
+	Manage : Pilih pemenang dan Eliminasi peserta
+	
+
